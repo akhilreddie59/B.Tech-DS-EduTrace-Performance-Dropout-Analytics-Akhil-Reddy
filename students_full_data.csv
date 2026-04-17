@@ -1,0 +1,501 @@
+student_id,name,age,gender,course,year,parent_name,parent_education,family_income
+1,Aarav Sharma,18,Male,B.Tech,1,Rajesh Sharma,Graduate,High
+2,Priya Patel,19,Female,B.Sc,2,Nisha Patel,Post Graduate,Middle
+3,Rahul Verma,20,Male,BBA,3,Sunil Verma,High School,Low
+4,Ananya Singh,17,Female,BA,1,Vikram Singh,Graduate,Middle
+5,Karthik Iyer,21,Male,B.Com,4,Suresh Iyer,Post Graduate,High
+6,Sneha Reddy,18,Female,BCA,1,Mohan Reddy,Graduate,Middle
+7,Arjun Nair,19,Male,B.Tech,2,Gopal Nair,Post Graduate,High
+8,Divya Krishnan,20,Female,B.Sc,3,Lakshmi Krishnan,Graduate,Middle
+9,Vikram Joshi,21,Male,BBA,4,Deepak Joshi,High School,Low
+10,Neha Gupta,18,Female,BA,2,Sanjay Gupta,Graduate,Middle
+11,Rohan Desai,19,Male,B.Com,1,Anil Desai,Post Graduate,High
+12,Pooja Malhotra,20,Female,BCA,2,Raj Malhotra,Graduate,Middle
+13,Aditya Kapoor,21,Male,B.Tech,3,Ravi Kapoor,Post Graduate,High
+14,Isha Saxena,22,Female,B.Sc,4,Alok Saxena,Graduate,Middle
+15,Manish Yadav,18,Male,BBA,1,Dinesh Yadav,High School,Low
+16,Kavita Das,19,Female,BA,3,Pradeep Das,Graduate,Middle
+17,Siddharth Menon,20,Male,B.Com,2,Ramesh Menon,Post Graduate,High
+18,Anjali Mehta,21,Female,BCA,3,Ashok Mehta,Graduate,Middle
+19,Nikhil Choudhury,22,Male,B.Tech,4,Alok Choudhury,Post Graduate,High
+20,Shreya Ghosh,18,Female,B.Sc,1,Amit Ghosh,Graduate,Middle
+21,Vivek Kumar,19,Male,B.Com,2,Rajiv Kumar,Graduate,Middle
+22,Riya Shah,20,Female,BCA,3,Meera Shah,Post Graduate,High
+23,Tarun Agarwal,21,Male,B.Tech,4,Anita Agarwal,Graduate,Middle
+24,Swati Bose,18,Female,B.Sc,1,Amar Bose,High School,Low
+25,Harsh Sen,19,Male,BBA,2,Geeta Sen,Graduate,Middle
+26,Ishita Roy,20,Female,BA,3,Arun Roy,Post Graduate,High
+27,Mohit Mukherjee,21,Male,B.Com,4,Priya Mukherjee,Graduate,Middle
+28,Sakshi Banerjee,22,Female,BCA,4,Rahul Banerjee,Graduate,Middle
+29,Aakash Chatterjee,18,Male,B.Tech,1,Neha Chatterjee,Post Graduate,High
+30,Tanvi Thakur,19,Female,B.Sc,2,Vikas Thakur,Graduate,Middle
+31,Yash Pandey,20,Male,BBA,3,Sunita Pandey,High School,Low
+32,Kritika Mishra,21,Female,BA,4,Sanjay Mishra,Post Graduate,High
+33,Shubham Tripathi,17,Male,B.Com,1,Anjali Tripathi,Graduate,Middle
+34,Prachi Dwivedi,18,Female,BCA,1,Rajesh Dwivedi,Graduate,Middle
+35,Aman Tiwari,19,Male,B.Tech,2,Kavita Tiwari,Post Graduate,High
+36,Simran Rao,20,Female,B.Sc,3,Deepak Rao,Graduate,Middle
+37,Naveen Naidu,21,Male,BBA,4,Lakshmi Naidu,High School,Low
+38,Palak Shetty,22,Female,BA,4,Mohan Shetty,Graduate,Middle
+39,Abhishek Pillai,18,Male,B.Com,1,Suresh Pillai,Post Graduate,High
+40,Aditi Kurian,19,Female,BCA,2,Gopal Kurian,Graduate,Middle
+41,Gaurav Nair,20,Male,B.Tech,3,Ramesh Nair,Post Graduate,High
+42,Jhanvi Iyer,21,Female,B.Sc,4,Anil Iyer,Graduate,Middle
+43,Rajat Sharma,17,Male,BBA,1,Dinesh Sharma,High School,Low
+44,Aarohi Patel,18,Female,BA,1,Nisha Patel,Graduate,Middle
+45,Kunal Verma,19,Male,B.Com,2,Sunil Verma,Post Graduate,High
+46,Anushka Singh,20,Female,BCA,3,Vikram Singh,Graduate,Middle
+47,Mayank Reddy,21,Male,B.Tech,4,Mohan Reddy,Post Graduate,High
+48,Avni Krishnan,22,Female,B.Sc,4,Lakshmi Krishnan,Graduate,Middle
+49,Sachin Joshi,18,Male,BBA,1,Deepak Joshi,High School,Low
+50,Kiara Gupta,19,Female,BA,2,Sanjay Gupta,Graduate,Middle
+51,Varun Desai,20,Male,B.Com,3,Anil Desai,Post Graduate,High
+52,Prisha Malhotra,21,Female,BCA,4,Raj Malhotra,Graduate,Middle
+53,Ankit Kapoor,17,Male,B.Tech,1,Ravi Kapoor,Post Graduate,High
+54,Sia Saxena,18,Female,B.Sc,1,Alok Saxena,Graduate,Middle
+55,Vishal Yadav,19,Male,BBA,2,Dinesh Yadav,High School,Low
+56,Myra Das,20,Female,BA,3,Pradeep Das,Graduate,Middle
+57,Rohan Menon,21,Male,B.Com,4,Ramesh Menon,Post Graduate,High
+58,Aisha Mehta,22,Female,BCA,4,Ashok Mehta,Graduate,Middle
+59,Piyush Choudhury,18,Male,B.Tech,1,Alok Choudhury,Post Graduate,High
+60,Meera Ghosh,19,Female,B.Sc,2,Amit Ghosh,Graduate,Middle
+61,Shruti Kumar,20,Female,B.Com,3,Rajiv Kumar,Graduate,Middle
+62,Nidhi Shah,21,Female,BCA,4,Meera Shah,Post Graduate,High
+63,Ritu Agarwal,17,Female,B.Tech,1,Anita Agarwal,Graduate,Middle
+64,Jyoti Bose,18,Female,B.Sc,1,Amar Bose,High School,Low
+65,Radhika Sen,19,Female,BBA,2,Geeta Sen,Graduate,Middle
+66,Aarav Roy,20,Male,BA,3,Arun Roy,Post Graduate,High
+67,Priya Mukherjee,21,Female,B.Com,4,Priya Mukherjee,Graduate,Middle
+68,Rahul Banerjee,22,Male,BCA,4,Rahul Banerjee,Graduate,Middle
+69,Ananya Chatterjee,18,Female,B.Tech,1,Neha Chatterjee,Post Graduate,High
+70,Karthik Thakur,19,Male,B.Sc,2,Vikas Thakur,Graduate,Middle
+71,Sneha Pandey,20,Female,BBA,3,Sunita Pandey,High School,Low
+72,Arjun Mishra,21,Male,BA,4,Sanjay Mishra,Post Graduate,High
+73,Divya Tripathi,17,Female,B.Com,1,Anjali Tripathi,Graduate,Middle
+74,Vikram Dwivedi,18,Male,BCA,1,Rajesh Dwivedi,Graduate,Middle
+75,Neha Tiwari,19,Female,B.Tech,2,Kavita Tiwari,Post Graduate,High
+76,Rohan Rao,20,Male,B.Sc,3,Deepak Rao,Graduate,Middle
+77,Pooja Naidu,21,Female,BBA,4,Lakshmi Naidu,High School,Low
+78,Aditya Shetty,22,Male,BA,4,Mohan Shetty,Graduate,Middle
+79,Isha Pillai,18,Female,B.Com,1,Suresh Pillai,Post Graduate,High
+80,Manish Kurian,19,Male,BCA,2,Gopal Kurian,Graduate,Middle
+81,Kavita Nair,20,Female,B.Tech,3,Ramesh Nair,Post Graduate,High
+82,Siddharth Iyer,21,Male,B.Sc,4,Anil Iyer,Graduate,Middle
+83,Anjali Sharma,17,Female,BBA,1,Dinesh Sharma,High School,Low
+84,Nikhil Patel,18,Male,BA,1,Nisha Patel,Graduate,Middle
+85,Shreya Verma,19,Female,B.Com,2,Sunil Verma,Post Graduate,High
+86,Vivek Singh,20,Male,BCA,3,Vikram Singh,Graduate,Middle
+87,Riya Iyer,21,Female,B.Tech,4,Suresh Iyer,Post Graduate,High
+88,Tarun Reddy,22,Male,B.Sc,4,Mohan Reddy,Graduate,Middle
+89,Swati Krishnan,18,Female,BBA,1,Lakshmi Krishnan,High School,Low
+90,Harsh Joshi,19,Male,BA,2,Deepak Joshi,Graduate,Middle
+91,Ishita Gupta,20,Female,B.Com,3,Sanjay Gupta,Post Graduate,High
+92,Mohit Desai,21,Male,BCA,4,Anil Desai,Graduate,Middle
+93,Sakshi Malhotra,17,Female,B.Tech,1,Raj Malhotra,Post Graduate,High
+94,Aakash Kapoor,18,Male,B.Sc,1,Ravi Kapoor,Graduate,Middle
+95,Tanvi Saxena,19,Female,BBA,2,Alok Saxena,High School,Low
+96,Yash Yadav,20,Male,BA,3,Dinesh Yadav,Graduate,Middle
+97,Kritika Das,21,Female,B.Com,4,Pradeep Das,Post Graduate,High
+98,Shubham Menon,22,Male,BCA,4,Ramesh Menon,Graduate,Middle
+99,Prachi Mehta,18,Female,B.Tech,1,Ashok Mehta,Post Graduate,High
+100,Aman Choudhury,19,Male,B.Sc,2,Alok Choudhury,Graduate,Middle
+101,Simran Ghosh,20,Female,B.Com,3,Amit Ghosh,Graduate,Middle
+102,Naveen Kumar,21,Male,BCA,4,Rajiv Kumar,Post Graduate,High
+103,Palak Shah,17,Female,B.Tech,1,Meera Shah,Graduate,Middle
+104,Abhishek Agarwal,18,Male,B.Sc,1,Anita Agarwal,High School,Low
+105,Aditi Bose,19,Female,BBA,2,Amar Bose,Graduate,Middle
+106,Gaurav Sen,20,Male,BA,3,Geeta Sen,Post Graduate,High
+107,Jhanvi Roy,21,Female,B.Com,4,Arun Roy,Graduate,Middle
+108,Rajat Mukherjee,22,Male,BCA,4,Priya Mukherjee,Graduate,Middle
+109,Aarohi Banerjee,18,Female,B.Tech,1,Rahul Banerjee,Post Graduate,High
+110,Kunal Chatterjee,19,Male,B.Sc,2,Neha Chatterjee,Graduate,Middle
+111,Anushka Thakur,20,Female,BBA,3,Vikas Thakur,High School,Low
+112,Mayank Pandey,21,Male,BA,4,Sunita Pandey,Post Graduate,High
+113,Avni Mishra,17,Female,B.Com,1,Sanjay Mishra,Graduate,Middle
+114,Sachin Tripathi,18,Male,BCA,1,Anjali Tripathi,Graduate,Middle
+115,Kiara Dwivedi,19,Female,B.Tech,2,Rajesh Dwivedi,Post Graduate,High
+116,Varun Tiwari,20,Male,B.Sc,3,Kavita Tiwari,Graduate,Middle
+117,Prisha Rao,21,Female,BBA,4,Deepak Rao,High School,Low
+118,Ankit Naidu,22,Male,BA,4,Lakshmi Naidu,Graduate,Middle
+119,Sia Shetty,18,Female,B.Com,1,Mohan Shetty,Post Graduate,High
+120,Vishal Pillai,19,Male,BCA,2,Suresh Pillai,Graduate,Middle
+121,Myra Kurian,20,Female,B.Tech,3,Gopal Kurian,Post Graduate,High
+122,Aisha Nair,21,Female,B.Sc,4,Ramesh Nair,Graduate,Middle
+123,Piyush Iyer,17,Male,BBA,1,Anil Iyer,High School,Low
+124,Meera Sharma,18,Female,BA,1,Dinesh Sharma,Graduate,Middle
+125,Shruti Patel,19,Female,B.Com,2,Nisha Patel,Post Graduate,High
+126,Nidhi Verma,20,Female,BCA,3,Sunil Verma,Graduate,Middle
+127,Ritu Singh,21,Female,B.Tech,4,Vikram Singh,Post Graduate,High
+128,Jyoti Reddy,22,Female,B.Sc,4,Mohan Reddy,Graduate,Middle
+129,Radhika Nair,18,Female,BBA,1,Gopal Nair,High School,Low
+130,Aarav Krishnan,19,Male,BA,2,Lakshmi Krishnan,Graduate,Middle
+131,Priya Joshi,20,Female,B.Com,3,Deepak Joshi,Post Graduate,High
+132,Rahul Gupta,21,Male,BCA,4,Sanjay Gupta,Graduate,Middle
+133,Ananya Desai,17,Female,B.Tech,1,Anil Desai,Post Graduate,High
+134,Karthik Malhotra,18,Male,B.Sc,1,Raj Malhotra,Graduate,Middle
+135,Sneha Kapoor,19,Female,BBA,2,Ravi Kapoor,High School,Low
+136,Arjun Saxena,20,Male,BA,3,Alok Saxena,Graduate,Middle
+137,Divya Yadav,21,Female,B.Com,4,Dinesh Yadav,Post Graduate,High
+138,Vikram Das,22,Male,BCA,4,Pradeep Das,Graduate,Middle
+139,Neha Menon,18,Female,B.Tech,1,Ramesh Menon,Post Graduate,High
+140,Rohan Mehta,19,Male,B.Sc,2,Ashok Mehta,Graduate,Middle
+141,Pooja Choudhury,20,Female,B.Com,3,Alok Choudhury,Graduate,Middle
+142,Aditya Ghosh,21,Male,BCA,4,Amit Ghosh,Post Graduate,High
+143,Isha Kumar,17,Female,B.Tech,1,Rajiv Kumar,Graduate,Middle
+144,Manish Shah,18,Male,B.Sc,1,Meera Shah,High School,Low
+145,Kavita Agarwal,19,Female,BBA,2,Anita Agarwal,Graduate,Middle
+146,Siddharth Bose,20,Male,BA,3,Amar Bose,Post Graduate,High
+147,Anjali Sen,21,Female,B.Com,4,Geeta Sen,Graduate,Middle
+148,Nikhil Roy,22,Male,BCA,4,Arun Roy,Graduate,Middle
+149,Shreya Mukherjee,18,Female,B.Tech,1,Priya Mukherjee,Post Graduate,High
+150,Vivek Banerjee,19,Male,B.Sc,2,Rahul Banerjee,Graduate,Middle
+151,Riya Chatterjee,20,Female,BBA,3,Neha Chatterjee,High School,Low
+152,Tarun Thakur,21,Male,BA,4,Vikas Thakur,Post Graduate,High
+153,Swati Pandey,17,Female,B.Com,1,Sunita Pandey,Graduate,Middle
+154,Harsh Mishra,18,Male,BCA,1,Sanjay Mishra,Graduate,Middle
+155,Ishita Tripathi,19,Female,B.Tech,2,Anjali Tripathi,Post Graduate,High
+156,Mohit Dwivedi,20,Male,B.Sc,3,Rajesh Dwivedi,Graduate,Middle
+157,Sakshi Tiwari,21,Female,BBA,4,Kavita Tiwari,High School,Low
+158,Aakash Rao,22,Male,BA,4,Deepak Rao,Graduate,Middle
+159,Tanvi Naidu,18,Female,B.Com,1,Lakshmi Naidu,Post Graduate,High
+160,Yash Shetty,19,Male,BCA,2,Mohan Shetty,Graduate,Middle
+161,Kritika Pillai,20,Female,B.Tech,3,Suresh Pillai,Post Graduate,High
+162,Shubham Kurian,21,Male,B.Sc,4,Gopal Kurian,Graduate,Middle
+163,Prachi Nair,17,Female,BBA,1,Ramesh Nair,High School,Low
+164,Aman Iyer,18,Male,BA,1,Anil Iyer,Graduate,Middle
+165,Simran Sharma,19,Female,B.Com,2,Dinesh Sharma,Post Graduate,High
+166,Naveen Patel,20,Male,BCA,3,Nisha Patel,Graduate,Middle
+167,Palak Verma,21,Female,B.Tech,4,Sunil Verma,Post Graduate,High
+168,Abhishek Singh,22,Male,B.Sc,4,Vikram Singh,Graduate,Middle
+169,Aditi Iyer,18,Female,BBA,1,Suresh Iyer,High School,Low
+170,Gaurav Reddy,19,Male,BA,2,Mohan Reddy,Graduate,Middle
+171,Jhanvi Krishnan,20,Female,B.Com,3,Lakshmi Krishnan,Post Graduate,High
+172,Rajat Joshi,21,Male,BCA,4,Deepak Joshi,Graduate,Middle
+173,Aarohi Gupta,17,Female,B.Tech,1,Sanjay Gupta,Post Graduate,High
+174,Kunal Desai,18,Male,B.Sc,1,Anil Desai,Graduate,Middle
+175,Anushka Malhotra,19,Female,BBA,2,Raj Malhotra,High School,Low
+176,Mayank Kapoor,20,Male,BA,3,Ravi Kapoor,Graduate,Middle
+177,Avni Saxena,21,Female,B.Com,4,Alok Saxena,Post Graduate,High
+178,Sachin Yadav,22,Male,BCA,4,Dinesh Yadav,Graduate,Middle
+179,Kiara Das,18,Female,B.Tech,1,Pradeep Das,Post Graduate,High
+180,Varun Menon,19,Male,B.Sc,2,Ramesh Menon,Graduate,Middle
+181,Prisha Mehta,20,Female,B.Com,3,Ashok Mehta,Graduate,Middle
+182,Ankit Choudhury,21,Male,BCA,4,Alok Choudhury,Post Graduate,High
+183,Sia Ghosh,17,Female,B.Tech,1,Amit Ghosh,Graduate,Middle
+184,Vishal Kumar,18,Male,B.Sc,1,Rajiv Kumar,High School,Low
+185,Myra Shah,19,Female,BBA,2,Meera Shah,Graduate,Middle
+186,Aisha Agarwal,20,Female,BA,3,Anita Agarwal,Post Graduate,High
+187,Piyush Bose,21,Male,B.Com,4,Amar Bose,Graduate,Middle
+188,Meera Sen,22,Female,BCA,4,Geeta Sen,Graduate,Middle
+189,Shruti Roy,18,Female,B.Tech,1,Arun Roy,Post Graduate,High
+190,Nidhi Mukherjee,19,Female,B.Sc,2,Priya Mukherjee,Graduate,Middle
+191,Ritu Banerjee,20,Female,BBA,3,Rahul Banerjee,High School,Low
+192,Jyoti Chatterjee,21,Female,BA,4,Neha Chatterjee,Graduate,Middle
+193,Radhika Thakur,17,Female,B.Com,1,Vikas Thakur,Post Graduate,High
+194,Aarav Pandey,18,Male,BCA,1,Sunita Pandey,Graduate,Middle
+195,Priya Mishra,19,Female,B.Tech,2,Sanjay Mishra,Post Graduate,High
+196,Rahul Tripathi,20,Male,B.Sc,3,Anjali Tripathi,Graduate,Middle
+197,Ananya Dwivedi,21,Female,BBA,4,Rajesh Dwivedi,High School,Low
+198,Karthik Tiwari,22,Male,BA,4,Kavita Tiwari,Graduate,Middle
+199,Sneha Rao,18,Female,B.Com,1,Deepak Rao,Post Graduate,High
+200,Arjun Naidu,19,Male,BCA,2,Lakshmi Naidu,Graduate,Middle
+201,Divya Shetty,20,Female,B.Tech,3,Mohan Shetty,Post Graduate,High
+202,Vikram Pillai,21,Male,B.Sc,4,Suresh Pillai,Graduate,Middle
+203,Neha Kurian,17,Female,BBA,1,Gopal Kurian,High School,Low
+204,Rohan Nair,18,Male,BA,1,Ramesh Nair,Graduate,Middle
+205,Pooja Iyer,19,Female,B.Com,2,Anil Iyer,Post Graduate,High
+206,Aditya Sharma,20,Male,BCA,3,Dinesh Sharma,Graduate,Middle
+207,Isha Patel,21,Female,B.Tech,4,Nisha Patel,Post Graduate,High
+208,Manish Verma,22,Male,B.Sc,4,Sunil Verma,Graduate,Middle
+209,Kavita Singh,18,Female,BBA,1,Vikram Singh,High School,Low
+210,Siddharth Iyer,19,Male,BA,2,Suresh Iyer,Graduate,Middle
+211,Anjali Reddy,20,Female,B.Com,3,Mohan Reddy,Post Graduate,High
+212,Nikhil Nair,21,Male,BCA,4,Gopal Nair,Graduate,Middle
+213,Shreya Krishnan,17,Female,B.Tech,1,Lakshmi Krishnan,Post Graduate,High
+214,Vivek Joshi,18,Male,B.Sc,1,Deepak Joshi,Graduate,Middle
+215,Riya Gupta,19,Female,BBA,2,Sanjay Gupta,High School,Low
+216,Tarun Desai,20,Male,BA,3,Anil Desai,Graduate,Middle
+217,Swati Malhotra,21,Female,B.Com,4,Raj Malhotra,Post Graduate,High
+218,Harsh Kapoor,22,Male,BCA,4,Ravi Kapoor,Graduate,Middle
+219,Ishita Saxena,18,Female,B.Tech,1,Alok Saxena,Post Graduate,High
+220,Mohit Yadav,19,Male,B.Sc,2,Dinesh Yadav,Graduate,Middle
+221,Sakshi Das,20,Female,B.Com,3,Pradeep Das,Graduate,Middle
+222,Aakash Menon,21,Male,BCA,4,Ramesh Menon,Post Graduate,High
+223,Tanvi Mehta,17,Female,B.Tech,1,Ashok Mehta,Graduate,Middle
+224,Yash Choudhury,18,Male,B.Sc,1,Alok Choudhury,High School,Low
+225,Kritika Ghosh,19,Female,BBA,2,Amit Ghosh,Graduate,Middle
+226,Shubham Kumar,20,Male,BA,3,Rajiv Kumar,Post Graduate,High
+227,Prachi Shah,21,Female,B.Com,4,Meera Shah,Graduate,Middle
+228,Aman Agarwal,22,Male,BCA,4,Anita Agarwal,Graduate,Middle
+229,Simran Bose,18,Female,B.Tech,1,Amar Bose,Post Graduate,High
+230,Naveen Sen,19,Male,B.Sc,2,Geeta Sen,Graduate,Middle
+231,Palak Roy,20,Female,BBA,3,Arun Roy,High School,Low
+232,Abhishek Mukherjee,21,Male,BA,4,Priya Mukherjee,Graduate,Middle
+233,Aditi Banerjee,17,Female,B.Com,1,Rahul Banerjee,Post Graduate,High
+234,Gaurav Chatterjee,18,Male,BCA,1,Neha Chatterjee,Graduate,Middle
+235,Jhanvi Thakur,19,Female,B.Tech,2,Vikas Thakur,Post Graduate,High
+236,Rajat Pandey,20,Male,B.Sc,3,Sunita Pandey,Graduate,Middle
+237,Aarohi Mishra,21,Female,BBA,4,Sanjay Mishra,High School,Low
+238,Kunal Tripathi,22,Male,BA,4,Anjali Tripathi,Graduate,Middle
+239,Anushka Dwivedi,18,Female,B.Com,1,Rajesh Dwivedi,Post Graduate,High
+240,Mayank Tiwari,19,Male,BCA,2,Kavita Tiwari,Graduate,Middle
+241,Avni Rao,20,Female,B.Tech,3,Deepak Rao,Post Graduate,High
+242,Sachin Naidu,21,Male,B.Sc,4,Lakshmi Naidu,Graduate,Middle
+243,Kiara Shetty,17,Female,BBA,1,Mohan Shetty,High School,Low
+244,Varun Pillai,18,Male,BA,1,Suresh Pillai,Graduate,Middle
+245,Prisha Kurian,19,Female,B.Com,2,Gopal Kurian,Post Graduate,High
+246,Ankit Nair,20,Male,BCA,3,Ramesh Nair,Graduate,Middle
+247,Sia Iyer,21,Female,B.Tech,4,Anil Iyer,Post Graduate,High
+248,Vishal Sharma,22,Male,B.Sc,4,Dinesh Sharma,Graduate,Middle
+249,Myra Patel,18,Female,BBA,1,Nisha Patel,High School,Low
+250,Aisha Verma,19,Female,BA,2,Sunil Verma,Graduate,Middle
+251,Piyush Singh,20,Male,B.Com,3,Vikram Singh,Post Graduate,High
+252,Meera Iyer,21,Female,BCA,4,Suresh Iyer,Graduate,Middle
+253,Shruti Reddy,17,Female,B.Tech,1,Mohan Reddy,Post Graduate,High
+254,Nidhi Nair,18,Female,B.Sc,1,Gopal Nair,Graduate,Middle
+255,Ritu Krishnan,19,Female,BBA,2,Lakshmi Krishnan,High School,Low
+256,Jyoti Joshi,20,Female,BA,3,Deepak Joshi,Graduate,Middle
+257,Radhika Gupta,21,Female,B.Com,4,Sanjay Gupta,Post Graduate,High
+258,Aarav Desai,22,Male,BCA,4,Anil Desai,Graduate,Middle
+259,Priya Malhotra,18,Female,B.Tech,1,Raj Malhotra,Post Graduate,High
+260,Rahul Kapoor,19,Male,B.Sc,2,Ravi Kapoor,Graduate,Middle
+261,Ananya Saxena,20,Female,BBA,3,Alok Saxena,High School,Low
+262,Karthik Yadav,21,Male,BA,4,Dinesh Yadav,Graduate,Middle
+263,Sneha Das,17,Female,B.Com,1,Pradeep Das,Post Graduate,High
+264,Arjun Menon,18,Male,BCA,1,Ramesh Menon,Graduate,Middle
+265,Divya Mehta,19,Female,B.Tech,2,Ashok Mehta,Post Graduate,High
+266,Vikram Choudhury,20,Male,B.Sc,3,Alok Choudhury,Graduate,Middle
+267,Neha Ghosh,21,Female,BBA,4,Amit Ghosh,High School,Low
+268,Rohan Kumar,22,Male,BA,4,Rajiv Kumar,Graduate,Middle
+269,Pooja Shah,18,Female,B.Com,1,Meera Shah,Post Graduate,High
+270,Aditya Agarwal,19,Male,BCA,2,Anita Agarwal,Graduate,Middle
+271,Isha Bose,20,Female,B.Tech,3,Amar Bose,Post Graduate,High
+272,Manish Sen,21,Male,B.Sc,4,Geeta Sen,Graduate,Middle
+273,Kavita Roy,17,Female,BBA,1,Arun Roy,High School,Low
+274,Siddharth Mukherjee,18,Male,BA,1,Priya Mukherjee,Graduate,Middle
+275,Anjali Banerjee,19,Female,B.Com,2,Rahul Banerjee,Post Graduate,High
+276,Nikhil Chatterjee,20,Male,BCA,3,Neha Chatterjee,Graduate,Middle
+277,Shreya Thakur,21,Female,B.Tech,4,Vikas Thakur,Post Graduate,High
+278,Vivek Pandey,22,Male,B.Sc,4,Sunita Pandey,Graduate,Middle
+279,Riya Mishra,18,Female,BBA,1,Sanjay Mishra,High School,Low
+280,Tarun Tripathi,19,Male,BA,2,Anjali Tripathi,Graduate,Middle
+281,Swati Dwivedi,20,Female,B.Com,3,Rajesh Dwivedi,Post Graduate,High
+282,Harsh Tiwari,21,Male,BCA,4,Kavita Tiwari,Graduate,Middle
+283,Ishita Rao,17,Female,B.Tech,1,Deepak Rao,Post Graduate,High
+284,Mohit Naidu,18,Male,B.Sc,1,Lakshmi Naidu,Graduate,Middle
+285,Sakshi Shetty,19,Female,BBA,2,Mohan Shetty,High School,Low
+286,Aakash Pillai,20,Male,BA,3,Suresh Pillai,Graduate,Middle
+287,Tanvi Kurian,21,Female,B.Com,4,Gopal Kurian,Post Graduate,High
+288,Yash Nair,22,Male,BCA,4,Ramesh Nair,Graduate,Middle
+289,Kritika Iyer,18,Female,B.Tech,1,Anil Iyer,Post Graduate,High
+290,Shubham Sharma,19,Male,B.Sc,2,Dinesh Sharma,Graduate,Middle
+291,Prachi Patel,20,Female,B.Com,3,Nisha Patel,Graduate,Middle
+292,Aman Verma,21,Male,BCA,4,Sunil Verma,Post Graduate,High
+293,Simran Singh,17,Female,B.Tech,1,Vikram Singh,Graduate,Middle
+294,Naveen Iyer,18,Male,B.Sc,1,Suresh Iyer,High School,Low
+295,Palak Reddy,19,Female,BBA,2,Mohan Reddy,Graduate,Middle
+296,Abhishek Nair,20,Male,BA,3,Gopal Nair,Post Graduate,High
+297,Aditi Krishnan,21,Female,B.Com,4,Lakshmi Krishnan,Graduate,Middle
+298,Gaurav Joshi,22,Male,BCA,4,Deepak Joshi,Graduate,Middle
+299,Jhanvi Gupta,18,Female,B.Tech,1,Sanjay Gupta,Post Graduate,High
+300,Rajat Desai,19,Male,B.Sc,2,Anil Desai,Graduate,Middle
+301,Aarohi Malhotra,20,Female,BBA,3,Raj Malhotra,High School,Low
+302,Kunal Kapoor,21,Male,BA,4,Ravi Kapoor,Graduate,Middle
+303,Anushka Saxena,17,Female,B.Com,1,Alok Saxena,Post Graduate,High
+304,Mayank Yadav,18,Male,BCA,1,Dinesh Yadav,Graduate,Middle
+305,Avni Das,19,Female,B.Tech,2,Pradeep Das,Post Graduate,High
+306,Sachin Menon,20,Male,B.Sc,3,Ramesh Menon,Graduate,Middle
+307,Kiara Mehta,21,Female,BBA,4,Ashok Mehta,High School,Low
+308,Varun Choudhury,22,Male,BA,4,Alok Choudhury,Graduate,Middle
+309,Prisha Ghosh,18,Female,B.Com,1,Amit Ghosh,Post Graduate,High
+310,Ankit Kumar,19,Male,BCA,2,Rajiv Kumar,Graduate,Middle
+311,Sia Shah,20,Female,B.Tech,3,Meera Shah,Post Graduate,High
+312,Vishal Agarwal,21,Male,B.Sc,4,Anita Agarwal,Graduate,Middle
+313,Myra Bose,17,Female,BBA,1,Amar Bose,High School,Low
+314,Aisha Sen,18,Female,BA,1,Geeta Sen,Graduate,Middle
+315,Piyush Roy,19,Male,B.Com,2,Arun Roy,Post Graduate,High
+316,Meera Mukherjee,20,Female,BCA,3,Priya Mukherjee,Graduate,Middle
+317,Shruti Banerjee,21,Female,B.Tech,4,Rahul Banerjee,Post Graduate,High
+318,Nidhi Chatterjee,22,Female,B.Sc,4,Neha Chatterjee,Graduate,Middle
+319,Ritu Thakur,18,Female,BBA,1,Vikas Thakur,High School,Low
+320,Jyoti Pandey,19,Female,BA,2,Sunita Pandey,Graduate,Middle
+321,Radhika Mishra,20,Female,B.Com,3,Sanjay Mishra,Post Graduate,High
+322,Aarav Tripathi,21,Male,BCA,4,Anjali Tripathi,Graduate,Middle
+323,Priya Dwivedi,17,Female,B.Tech,1,Rajesh Dwivedi,Post Graduate,High
+324,Rahul Tiwari,18,Male,B.Sc,1,Kavita Tiwari,Graduate,Middle
+325,Ananya Rao,19,Female,BBA,2,Deepak Rao,High School,Low
+326,Karthik Naidu,20,Male,BA,3,Lakshmi Naidu,Graduate,Middle
+327,Sneha Shetty,21,Female,B.Com,4,Mohan Shetty,Post Graduate,High
+328,Arjun Pillai,22,Male,BCA,4,Suresh Pillai,Graduate,Middle
+329,Divya Kurian,18,Female,B.Tech,1,Gopal Kurian,Post Graduate,High
+330,Vikram Nair,19,Male,B.Sc,2,Ramesh Nair,Graduate,Middle
+331,Neha Iyer,20,Female,BBA,3,Anil Iyer,High School,Low
+332,Rohan Sharma,21,Male,BA,4,Dinesh Sharma,Graduate,Middle
+333,Pooja Patel,17,Female,B.Com,1,Nisha Patel,Post Graduate,High
+334,Aditya Verma,18,Male,BCA,1,Sunil Verma,Graduate,Middle
+335,Isha Singh,19,Female,B.Tech,2,Vikram Singh,Post Graduate,High
+336,Manish Iyer,20,Male,B.Sc,3,Suresh Iyer,Graduate,Middle
+337,Kavita Reddy,21,Female,BBA,4,Mohan Reddy,High School,Low
+338,Siddharth Nair,22,Male,BA,4,Gopal Nair,Graduate,Middle
+339,Anjali Krishnan,18,Female,B.Com,1,Lakshmi Krishnan,Post Graduate,High
+340,Nikhil Joshi,19,Male,BCA,2,Deepak Joshi,Graduate,Middle
+341,Shreya Gupta,20,Female,B.Tech,3,Sanjay Gupta,Post Graduate,High
+342,Vivek Desai,21,Male,B.Sc,4,Anil Desai,Graduate,Middle
+343,Riya Malhotra,17,Female,BBA,1,Raj Malhotra,High School,Low
+344,Tarun Kapoor,18,Male,BA,1,Ravi Kapoor,Graduate,Middle
+345,Swati Saxena,19,Female,B.Com,2,Alok Saxena,Post Graduate,High
+346,Harsh Yadav,20,Male,BCA,3,Dinesh Yadav,Graduate,Middle
+347,Ishita Das,21,Female,B.Tech,4,Pradeep Das,Post Graduate,High
+348,Mohit Menon,22,Male,B.Sc,4,Ramesh Menon,Graduate,Middle
+349,Sakshi Mehta,18,Female,BBA,1,Ashok Mehta,High School,Low
+350,Aakash Choudhury,19,Male,BA,2,Alok Choudhury,Graduate,Middle
+351,Tanvi Ghosh,20,Female,B.Com,3,Amit Ghosh,Post Graduate,High
+352,Yash Kumar,21,Male,BCA,4,Rajiv Kumar,Graduate,Middle
+353,Kritika Shah,17,Female,B.Tech,1,Meera Shah,Post Graduate,High
+354,Shubham Agarwal,18,Male,B.Sc,1,Anita Agarwal,Graduate,Middle
+355,Prachi Bose,19,Female,BBA,2,Amar Bose,High School,Low
+356,Aman Sen,20,Male,BA,3,Geeta Sen,Graduate,Middle
+357,Simran Roy,21,Female,B.Com,4,Arun Roy,Post Graduate,High
+358,Naveen Mukherjee,22,Male,BCA,4,Priya Mukherjee,Graduate,Middle
+359,Palak Banerjee,18,Female,B.Tech,1,Rahul Banerjee,Post Graduate,High
+360,Abhishek Chatterjee,19,Male,B.Sc,2,Neha Chatterjee,Graduate,Middle
+361,Aditi Thakur,20,Female,BBA,3,Vikas Thakur,High School,Low
+362,Gaurav Pandey,21,Male,BA,4,Sunita Pandey,Graduate,Middle
+363,Jhanvi Mishra,17,Female,B.Com,1,Sanjay Mishra,Post Graduate,High
+364,Rajat Tripathi,18,Male,BCA,1,Anjali Tripathi,Graduate,Middle
+365,Aarohi Dwivedi,19,Female,B.Tech,2,Rajesh Dwivedi,Post Graduate,High
+366,Kunal Tiwari,20,Male,B.Sc,3,Kavita Tiwari,Graduate,Middle
+367,Anushka Rao,21,Female,BBA,4,Deepak Rao,High School,Low
+368,Mayank Naidu,22,Male,BA,4,Lakshmi Naidu,Graduate,Middle
+369,Avni Shetty,18,Female,B.Com,1,Mohan Shetty,Post Graduate,High
+370,Sachin Pillai,19,Male,BCA,2,Suresh Pillai,Graduate,Middle
+371,Kiara Kurian,20,Female,B.Tech,3,Gopal Kurian,Post Graduate,High
+372,Varun Nair,21,Male,B.Sc,4,Ramesh Nair,Graduate,Middle
+373,Prisha Iyer,17,Female,BBA,1,Anil Iyer,High School,Low
+374,Ankit Sharma,18,Male,BA,1,Dinesh Sharma,Graduate,Middle
+375,Sia Patel,19,Female,B.Com,2,Nisha Patel,Post Graduate,High
+376,Vishal Verma,20,Male,BCA,3,Sunil Verma,Graduate,Middle
+377,Myra Singh,21,Female,B.Tech,4,Vikram Singh,Post Graduate,High
+378,Aisha Iyer,22,Female,B.Sc,4,Suresh Iyer,Graduate,Middle
+379,Piyush Reddy,18,Male,BBA,1,Mohan Reddy,High School,Low
+380,Meera Nair,19,Female,BA,2,Gopal Nair,Graduate,Middle
+381,Shruti Krishnan,20,Female,B.Com,3,Lakshmi Krishnan,Post Graduate,High
+382,Nidhi Joshi,21,Female,BCA,4,Deepak Joshi,Graduate,Middle
+383,Ritu Gupta,17,Female,B.Tech,1,Sanjay Gupta,Post Graduate,High
+384,Jyoti Desai,18,Female,B.Sc,1,Anil Desai,Graduate,Middle
+385,Radhika Malhotra,19,Female,BBA,2,Raj Malhotra,High School,Low
+386,Aarav Kapoor,20,Male,BA,3,Ravi Kapoor,Graduate,Middle
+387,Priya Saxena,21,Female,B.Com,4,Alok Saxena,Post Graduate,High
+388,Rahul Yadav,22,Male,BCA,4,Dinesh Yadav,Graduate,Middle
+389,Ananya Das,18,Female,B.Tech,1,Pradeep Das,Post Graduate,High
+390,Karthik Menon,19,Male,B.Sc,2,Ramesh Menon,Graduate,Middle
+391,Sneha Mehta,20,Female,BBA,3,Ashok Mehta,High School,Low
+392,Arjun Choudhury,21,Male,BA,4,Alok Choudhury,Graduate,Middle
+393,Divya Ghosh,17,Female,B.Com,1,Amit Ghosh,Post Graduate,High
+394,Vikram Kumar,18,Male,BCA,1,Rajiv Kumar,Graduate,Middle
+395,Neha Shah,19,Female,B.Tech,2,Meera Shah,Post Graduate,High
+396,Rohan Agarwal,20,Male,B.Sc,3,Anita Agarwal,Graduate,Middle
+397,Pooja Bose,21,Female,BBA,4,Amar Bose,High School,Low
+398,Aditya Sen,22,Male,BA,4,Geeta Sen,Graduate,Middle
+399,Isha Roy,18,Female,B.Com,1,Arun Roy,Post Graduate,High
+400,Manish Mukherjee,19,Male,BCA,2,Priya Mukherjee,Graduate,Middle
+401,Kavita Banerjee,20,Female,B.Tech,3,Rahul Banerjee,Post Graduate,High
+402,Siddharth Chatterjee,21,Male,B.Sc,4,Neha Chatterjee,Graduate,Middle
+403,Anjali Thakur,17,Female,BBA,1,Vikas Thakur,High School,Low
+404,Nikhil Pandey,18,Male,BA,1,Sunita Pandey,Graduate,Middle
+405,Shreya Mishra,19,Female,B.Com,2,Sanjay Mishra,Post Graduate,High
+406,Vivek Tripathi,20,Male,BCA,3,Anjali Tripathi,Graduate,Middle
+407,Riya Dwivedi,21,Female,B.Tech,4,Rajesh Dwivedi,Post Graduate,High
+408,Tarun Tiwari,22,Male,B.Sc,4,Kavita Tiwari,Graduate,Middle
+409,Swati Rao,18,Female,BBA,1,Deepak Rao,High School,Low
+410,Harsh Naidu,19,Male,BA,2,Lakshmi Naidu,Graduate,Middle
+411,Ishita Shetty,20,Female,B.Com,3,Mohan Shetty,Post Graduate,High
+412,Mohit Pillai,21,Male,BCA,4,Suresh Pillai,Graduate,Middle
+413,Sakshi Kurian,17,Female,B.Tech,1,Gopal Kurian,Post Graduate,High
+414,Aakash Nair,18,Male,B.Sc,1,Ramesh Nair,Graduate,Middle
+415,Tanvi Iyer,19,Female,BBA,2,Anil Iyer,High School,Low
+416,Yash Sharma,20,Male,BA,3,Dinesh Sharma,Graduate,Middle
+417,Kritika Patel,21,Female,B.Com,4,Nisha Patel,Post Graduate,High
+418,Shubham Verma,22,Male,BCA,4,Sunil Verma,Graduate,Middle
+419,Prachi Singh,18,Female,B.Tech,1,Vikram Singh,Post Graduate,High
+420,Aman Iyer,19,Male,B.Sc,2,Suresh Iyer,Graduate,Middle
+421,Simran Reddy,20,Female,BBA,3,Mohan Reddy,High School,Low
+422,Naveen Nair,21,Male,BA,4,Gopal Nair,Graduate,Middle
+423,Palak Krishnan,17,Female,B.Com,1,Lakshmi Krishnan,Post Graduate,High
+424,Abhishek Joshi,18,Male,BCA,1,Deepak Joshi,Graduate,Middle
+425,Aditi Gupta,19,Female,B.Tech,2,Sanjay Gupta,Post Graduate,High
+426,Gaurav Desai,20,Male,B.Sc,3,Anil Desai,Graduate,Middle
+427,Jhanvi Malhotra,21,Female,BBA,4,Raj Malhotra,High School,Low
+428,Rajat Kapoor,22,Male,BA,4,Ravi Kapoor,Graduate,Middle
+429,Aarohi Saxena,18,Female,B.Com,1,Alok Saxena,Post Graduate,High
+430,Kunal Yadav,19,Male,BCA,2,Dinesh Yadav,Graduate,Middle
+431,Anushka Das,20,Female,B.Tech,3,Pradeep Das,Post Graduate,High
+432,Mayank Menon,21,Male,B.Sc,4,Ramesh Menon,Graduate,Middle
+433,Avni Mehta,17,Female,BBA,1,Ashok Mehta,High School,Low
+434,Sachin Choudhury,18,Male,BA,1,Alok Choudhury,Graduate,Middle
+435,Kiara Ghosh,19,Female,B.Com,2,Amit Ghosh,Post Graduate,High
+436,Varun Kumar,20,Male,BCA,3,Rajiv Kumar,Graduate,Middle
+437,Prisha Shah,21,Female,B.Tech,4,Meera Shah,Post Graduate,High
+438,Ankit Agarwal,22,Male,B.Sc,4,Anita Agarwal,Graduate,Middle
+439,Sia Bose,18,Female,BBA,1,Amar Bose,High School,Low
+440,Vishal Sen,19,Male,BA,2,Geeta Sen,Graduate,Middle
+441,Myra Roy,20,Female,B.Com,3,Arun Roy,Post Graduate,High
+442,Aisha Mukherjee,21,Female,BCA,4,Priya Mukherjee,Graduate,Middle
+443,Piyush Banerjee,17,Male,B.Tech,1,Rahul Banerjee,Post Graduate,High
+444,Meera Chatterjee,18,Female,B.Sc,1,Neha Chatterjee,Graduate,Middle
+445,Shruti Thakur,19,Female,BBA,2,Vikas Thakur,High School,Low
+446,Nidhi Pandey,20,Female,BA,3,Sunita Pandey,Graduate,Middle
+447,Ritu Mishra,21,Female,B.Com,4,Sanjay Mishra,Post Graduate,High
+448,Jyoti Tripathi,22,Female,BCA,4,Anjali Tripathi,Graduate,Middle
+449,Radhika Dwivedi,18,Female,B.Tech,1,Rajesh Dwivedi,Post Graduate,High
+450,Aarav Tiwari,19,Male,B.Sc,2,Kavita Tiwari,Graduate,Middle
+451,Priya Rao,20,Female,BBA,3,Deepak Rao,High School,Low
+452,Rahul Naidu,21,Male,BA,4,Lakshmi Naidu,Graduate,Middle
+453,Ananya Shetty,17,Female,B.Com,1,Mohan Shetty,Post Graduate,High
+454,Karthik Pillai,18,Male,BCA,1,Suresh Pillai,Graduate,Middle
+455,Sneha Kurian,19,Female,B.Tech,2,Gopal Kurian,Post Graduate,High
+456,Arjun Nair,20,Male,B.Sc,3,Ramesh Nair,Graduate,Middle
+457,Divya Iyer,21,Female,BBA,4,Anil Iyer,High School,Low
+458,Vikram Sharma,22,Male,BA,4,Dinesh Sharma,Graduate,Middle
+459,Neha Patel,18,Female,B.Com,1,Nisha Patel,Post Graduate,High
+460,Rohan Verma,19,Male,BCA,2,Sunil Verma,Graduate,Middle
+461,Pooja Singh,20,Female,B.Tech,3,Vikram Singh,Post Graduate,High
+462,Aditya Iyer,21,Male,B.Sc,4,Suresh Iyer,Graduate,Middle
+463,Isha Reddy,17,Female,BBA,1,Mohan Reddy,High School,Low
+464,Manish Nair,18,Male,BA,1,Gopal Nair,Graduate,Middle
+465,Kavita Krishnan,19,Female,B.Com,2,Lakshmi Krishnan,Post Graduate,High
+466,Siddharth Joshi,20,Male,BCA,3,Deepak Joshi,Graduate,Middle
+467,Anjali Gupta,21,Female,B.Tech,4,Sanjay Gupta,Post Graduate,High
+468,Nikhil Desai,22,Male,B.Sc,4,Anil Desai,Graduate,Middle
+469,Shreya Malhotra,18,Female,BBA,1,Raj Malhotra,High School,Low
+470,Vivek Kapoor,19,Male,BA,2,Ravi Kapoor,Graduate,Middle
+471,Riya Saxena,20,Female,B.Com,3,Alok Saxena,Post Graduate,High
+472,Tarun Yadav,21,Male,BCA,4,Dinesh Yadav,Graduate,Middle
+473,Swati Das,17,Female,B.Tech,1,Pradeep Das,Post Graduate,High
+474,Harsh Menon,18,Male,B.Sc,1,Ramesh Menon,Graduate,Middle
+475,Ishita Mehta,19,Female,BBA,2,Ashok Mehta,High School,Low
+476,Mohit Choudhury,20,Male,BA,3,Alok Choudhury,Graduate,Middle
+477,Sakshi Ghosh,21,Female,B.Com,4,Amit Ghosh,Post Graduate,High
+478,Aakash Kumar,22,Male,BCA,4,Rajiv Kumar,Graduate,Middle
+479,Tanvi Shah,18,Female,B.Tech,1,Meera Shah,Post Graduate,High
+480,Yash Agarwal,19,Male,B.Sc,2,Anita Agarwal,Graduate,Middle
+481,Kritika Bose,20,Female,BBA,3,Amar Bose,High School,Low
+482,Shubham Sen,21,Male,BA,4,Geeta Sen,Graduate,Middle
+483,Prachi Roy,17,Female,B.Com,1,Arun Roy,Post Graduate,High
+484,Aman Mukherjee,18,Male,BCA,1,Priya Mukherjee,Graduate,Middle
+485,Simran Banerjee,19,Female,B.Tech,2,Rahul Banerjee,Post Graduate,High
+486,Naveen Chatterjee,20,Male,B.Sc,3,Neha Chatterjee,Graduate,Middle
+487,Palak Thakur,21,Female,BBA,4,Vikas Thakur,High School,Low
+488,Abhishek Pandey,22,Male,BA,4,Sunita Pandey,Graduate,Middle
+489,Aditi Mishra,18,Female,B.Com,1,Sanjay Mishra,Post Graduate,High
+490,Gaurav Tripathi,19,Male,BCA,2,Anjali Tripathi,Graduate,Middle
+491,Jhanvi Dwivedi,20,Female,B.Tech,3,Rajesh Dwivedi,Post Graduate,High
+492,Rajat Tiwari,21,Male,B.Sc,4,Kavita Tiwari,Graduate,Middle
+493,Aarohi Rao,17,Female,BBA,1,Deepak Rao,High School,Low
+494,Kunal Naidu,18,Male,BA,1,Lakshmi Naidu,Graduate,Middle
+495,Anushka Shetty,19,Female,B.Com,2,Mohan Shetty,Post Graduate,High
+496,Mayank Pillai,20,Male,BCA,3,Suresh Pillai,Graduate,Middle
+497,Avni Kurian,21,Female,B.Tech,4,Gopal Kurian,Post Graduate,High
+498,Sachin Nair,22,Male,B.Sc,4,Ramesh Nair,Graduate,Middle
+499,Kiara Iyer,18,Female,BBA,1,Anil Iyer,High School,Low
+500,Varun Sharma,19,Male,BA,2,Dinesh Sharma,Graduate,Middle
